@@ -5,7 +5,7 @@ import pickle
 from num2words import num2words
 
 
-model=pickle.load(open("price_pipe_update.pkl","rb"))
+model=pickle.load(open("linear_model.pkl","rb"))
 st.title("Phone Price Predictor")
 with st.form("my_form"):
     brand= st.selectbox(
