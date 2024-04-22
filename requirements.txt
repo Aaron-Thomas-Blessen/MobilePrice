@@ -1,5 +1,5 @@
-numpy>=1.21,<1.22
-pickle-mixin==1.0.2
-streamlit==1.29.0
-scikit-learn==1.0.1
-num2words==0.5.13
+numpy
+pickle-mixin
+streamlit
+scikit-learn
+num2words
